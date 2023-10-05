@@ -6,6 +6,6 @@ class PascalTriangle
 
     public function line(int $number): [int]
     {
-        return '1337';
+        return [];
     }
 }

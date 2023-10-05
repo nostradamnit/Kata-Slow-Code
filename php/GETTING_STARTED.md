@@ -18,7 +18,7 @@
 
 ### 1 - Clone the kata repository
 ```shell
-git clone https://github.com/murex/Kata-Slow-Code.git
+git clone https://github.com/philou/Kata-Slow-Code.git
 ```
 ### 2 - Go to the kata's `php` directory
 ```shell

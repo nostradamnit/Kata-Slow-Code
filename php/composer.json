@@ -1,5 +1,5 @@
 {
-  "name": "luisrovirosa/php-docker-boostrap",
+  "name": "nostradamnit/slowkata",
   "require": {
     "php": "^8.1"
   },
